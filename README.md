@@ -33,47 +33,6 @@
 
 ### 🛠️ Tech Stack
 
-**Mobile**
-| Skill | Focus |
-|---|---|
-| Flutter | Cross-Platform |
-| Dart | Language |
-| Android | Native & Play Store |
-| iOS | App Store Builds |
-
-**Web / Frontend**
-| Skill | Focus |
-|---|---|
-| React.js | Web / SPA |
-| JavaScript | ES6+ Modern |
-| Redux / GetX | State Management |
-| HTML5 | Semantic Markup |
-| CSS3 | Responsive Layouts |
-
-**Backend & Data**
-| Skill | Focus |
-|---|---|
-| Django / DRF | Channels & ORM |
-| Python | Backend & ML |
-| Firebase | Auth / Firestore / FCM |
-| REST APIs | Design & Integration |
-| SQL & Databases | Relational Data |
-
-**Tools & Platforms**
-| Skill | Focus |
-|---|---|
-| Postman | API Testing |
-| Git | Version Control |
-| GitHub | CI/CD & Repos |
-| Figma | UI/UX Design & Prototyping |
-
-**Other**
-| Skill | Focus |
-|---|---|
-| Google Maps | Geolocation API |
-| Arduino & IoT | Sensors & Hardware |
-| Machine Learning | scikit-learn / Prototyping |
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,apple,react,js,redux,html,css,django,python,firebase,postman,git,github,figma,arduino&theme=dark" />
 </p>
@@ -90,26 +49,6 @@
 
 **The Nexus Technologies** — *Software Engineer Intern* · Mar 2024 – Sep 2024
 > Built 2+ responsive web apps in React.js, integrated REST APIs with Firebase, and supported 2 product launches with a ~15% reduction in post-release issues.
-
----
-
-### 📌 Featured Projects
-
-**[WayToFresh](https://github.com/Yyshnav)** — Full-stack delivery platform (sole developer)
-> Flutter customer app + Flutter delivery-partner app + Django REST admin dashboard. Real-time order tracking via WebSockets, live rider tracking with Google Maps API, FCM push notifications, OTP auth, and role-based admin controls.
-
-**[Portfolio Website](https://vaishnavjayaprakashportfolio.vercel.app/)**
-> Personal portfolio showcasing projects, skills, and experience — built and deployed on Vercel.
-
-> 🔗 *Add more project links here as you push new repos.*
-
----
-
-### 💻 Languages Known
-
-- JavaScript
-- Python
-- Dart (via Flutter)
 
 ---
 
