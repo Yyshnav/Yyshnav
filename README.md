@@ -33,17 +33,49 @@
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
+**Mobile**
+| Skill | Focus |
+|---|---|
+| Flutter | Cross-Platform |
+| Dart | Language |
+| Android | Native & Play Store |
+| iOS | App Store Builds |
+
+**Web / Frontend**
+| Skill | Focus |
+|---|---|
+| React.js | Web / SPA |
+| JavaScript | ES6+ Modern |
+| Redux / GetX | State Management |
+| HTML5 | Semantic Markup |
+| CSS3 | Responsive Layouts |
+
+**Backend & Data**
+| Skill | Focus |
+|---|---|
+| Django / DRF | Channels & ORM |
+| Python | Backend & ML |
+| Firebase | Auth / Firestore / FCM |
+| REST APIs | Design & Integration |
+| SQL & Databases | Relational Data |
+
+**Tools & Platforms**
+| Skill | Focus |
+|---|---|
+| Postman | API Testing |
+| Git | Version Control |
+| GitHub | CI/CD & Repos |
+| Figma | UI/UX Design & Prototyping |
+
+**Other**
+| Skill | Focus |
+|---|---|
+| Google Maps | Geolocation API |
+| Arduino & IoT | Sensors & Hardware |
+| Machine Learning | scikit-learn / Prototyping |
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,apple,react,js,redux,html,css,django,python,firebase,postman,git,github,figma,arduino&theme=dark" />
 </p>
 
 ---
@@ -61,15 +93,28 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📌 Featured Projects
+
+**[WayToFresh](https://github.com/Yyshnav)** — Full-stack delivery platform (sole developer)
+> Flutter customer app + Flutter delivery-partner app + Django REST admin dashboard. Real-time order tracking via WebSockets, live rider tracking with Google Maps API, FCM push notifications, OTP auth, and role-based admin controls.
+
+**[Portfolio Website](https://vaishnavjayaprakashportfolio.vercel.app/)**
+> Personal portfolio showcasing projects, skills, and experience — built and deployed on Vercel.
+
+> 🔗 *Add more project links here as you push new repos.*
+
+---
+
+### 💻 Languages Known
+
+- JavaScript
+- Python
+- Dart (via Flutter)
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yyshnav&show_icons=true&theme=radical&count_private=true" alt="Vaishnav's GitHub stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yyshnav&theme=radical" alt="Vaishnav's GitHub streak" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yyshnav&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://komarev.com/ghpvc/?username=Yyshnav&style=flat-square&color=blueviolet" alt="Profile views" />
 </p>
 
 ---
